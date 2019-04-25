@@ -17,7 +17,7 @@ sidebar-about-description: "岁月不饶人,我亦不饶岁月!"
 
 
 # SNS settings
-  RSS: false
+  RSS: ture
 # # weibo_username:     qiubaiying，
    github_username:    pengzey
 # #twitter_username:   qiubaiying
