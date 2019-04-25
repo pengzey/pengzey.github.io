@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: My Blog
 SEOTitle: 脚鱼的博客 | My Blog
 header-img: img/post-bg-desk.jpg
 email: 15570948905@163.com
@@ -89,7 +89,7 @@ featured-condition-size:      0        # 相同标签数量大于这个数，才
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
-service-worker: true
+service-worker:true
 
 
 
