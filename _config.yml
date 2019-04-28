@@ -10,8 +10,8 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/pezey/pengzey.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "岁月不饶人,我亦不饶岁月!"
+# sidebar: true                           # whether or not using Sidebar.
+# sidebar-about-description: "岁月不饶人,我亦不饶岁月!"
 # sidebar-avatar: img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -94,15 +94,15 @@ service-worker:true
 
 
 # Friends
-friend: [
-    {
-        title: "w3shool",
-        href: "http://www.w3school.com.cn"
-    },{
-        title: "Android",
-        href: "https://developer.android.google.cn"
-    },{
-        title: "github",
-        href: "https://github.com"
-    }
-]
+# friend: [
+#     {
+#         title: "w3shool",
+#         href: "http://www.w3school.com.cn"
+#     },{
+#         title: "Android",
+#         href: "https://developer.android.google.cn"
+#     },{
+#         title: "github",
+#         href: "https://github.com"
+#     }
+# ]
