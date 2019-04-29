@@ -11,8 +11,9 @@ github_repo: "https://github.com/pezey/pengzey.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "岁月不饶人,我亦不饶岁月!"
-sidebar-avatar:     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
 
 
 
